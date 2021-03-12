@@ -1,17 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Dec 27 16:15:45 2020
-
-@author: GameToGo
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Dec 27 15:40:40 2020
-
-@author: GameToGo
-"""
-
 import turtle 
 turtle.setup(width=600,height=400,startx=200,starty=200)
 
