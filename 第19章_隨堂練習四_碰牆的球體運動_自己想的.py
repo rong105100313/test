@@ -1,4 +1,4 @@
-#0314
+#第一版 原始
 import turtle 
 turtle.setup(width=600,height=400,startx=200,starty=200)
 
